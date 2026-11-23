@@ -2,7 +2,7 @@
 
 *A from-scratch comparison of a classical measurement model from educational psychometrics and a neural network, using real classroom data from an online mathematics tutor.*
 
-**Author:** Naghme Salavatinejad, PhD (Mathematics Education) · [salavatinejadn@gmail.com] · [www.linkedin.com/in/naghme-salavatinejad]
+**Author:** Naghme Salavatinejad, PhD (Mathematics Education) · salavatinejadn@gmail.com · www.linkedin.com/in/naghme-salavatinejad
 
 ---
 
